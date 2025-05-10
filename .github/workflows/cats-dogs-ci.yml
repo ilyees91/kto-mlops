@@ -3,7 +3,7 @@ name: Cats and dogs CI/CD
 on:
   push:
     branches:
-      - step**
+      - ilyess/step04_eval
 
 jobs:
   train:
